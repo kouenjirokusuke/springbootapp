@@ -1,7 +1,7 @@
-package com.kouenjirokusuke.crudapp.service;
+package com.kouenjirokusuke.springbootapp.service;
 
-import com.kouenjirokusuke.crudapp.dao.UserDAO;
-import com.kouenjirokusuke.crudapp.entity.User;
+import com.kouenjirokusuke.springbootapp.dao.UserDAO;
+import com.kouenjirokusuke.springbootapp.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,10 +1,9 @@
-package com.kouenjirokusuke.crudapp.dao;
+package com.kouenjirokusuke.springbootapp.dao;
 
-import com.kouenjirokusuke.crudapp.entity.User;
+import com.kouenjirokusuke.springbootapp.entity.User;
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.PersistenceContext;
 import org.springframework.stereotype.Repository;
-
-import javax.persistence.EntityManager;
-import javax.persistence.PersistenceContext;
 import java.util.List;
 
 @Repository

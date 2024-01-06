@@ -1,6 +1,6 @@
-package com.kouenjirokusuke.crudapp.dao;
+package com.kouenjirokusuke.springbootapp.dao;
 
-import com.kouenjirokusuke.crudapp.entity.User;
+import com.kouenjirokusuke.springbootapp.entity.User;
 
 import java.util.List;
 

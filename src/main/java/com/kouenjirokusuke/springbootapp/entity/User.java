@@ -1,6 +1,6 @@
-package com.kouenjirokusuke.crudapp.entity;
+package com.kouenjirokusuke.springbootapp.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "users")

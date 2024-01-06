@@ -1,7 +1,7 @@
-package com.kouenjirokusuke.crudapp.controller;
+package com.kouenjirokusuke.springbootapp.controller;
 
-import com.kouenjirokusuke.crudapp.entity.User;
-import com.kouenjirokusuke.crudapp.service.UserService;
+import com.kouenjirokusuke.springbootapp.entity.User;
+import com.kouenjirokusuke.springbootapp.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

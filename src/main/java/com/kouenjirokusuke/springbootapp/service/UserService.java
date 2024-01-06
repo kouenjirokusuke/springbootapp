@@ -1,6 +1,6 @@
-package com.kouenjirokusuke.crudapp.service;
+package com.kouenjirokusuke.springbootapp.service;
 
-import com.kouenjirokusuke.crudapp.entity.User;
+import com.kouenjirokusuke.springbootapp.entity.User;
 
 import java.util.List;
 
